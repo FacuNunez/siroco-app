@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <ItemList />
+      <ItemList greeting={"Bienvenidos a Siroco"}/>
     </div>
   );
 };
