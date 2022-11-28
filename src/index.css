@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.carritoContenedor{
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: baseline;
+}
+
+.carritoCantidad {
+  border-radius: 50px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 6px;
+}
+

@@ -1,4 +1,4 @@
-const ItemList = (props) =>{
+const ItemListContainer = (props) =>{
     return(
         <div>
            <h1 style={{textAlign:"center"}}>{props.greeting}</h1> 
@@ -8,4 +8,4 @@ const ItemList = (props) =>{
 }
 
 
-export default ItemList
+export default ItemListContainer

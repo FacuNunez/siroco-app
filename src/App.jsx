@@ -1,6 +1,6 @@
 // Importar React para tener todas las funcionalidades del framework
 import React from "react";
-import ItemList from "./components/ItemList";
+import ItemListContainer from "./components/ItemListContainer";
 import Navbar from "./components/Navbar";
 
 
@@ -10,11 +10,11 @@ import Navbar from "./components/Navbar";
 
 // Crear mi componente funcional que se llama App
 const App = () => {
-  const nombre = "Facundo";
+  //const nombre = "Facundo";
   return (
     <div>
       <Navbar />
-      <ItemList greeting={"Bienvenidos a Siroco"}/>
+      <ItemListContainer greeting={"Bienvenidos a Siroco"}/>
     </div>
   );
 };
