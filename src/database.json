@@ -1,0 +1,33 @@
+[
+    {
+        "id":"1",
+        "name":"cuarto de helado",
+        "description":"250gr de helado, 2 o 3 gustos.",
+        "price":"$450",
+        "image":""
+    },
+
+    {
+        "id":"2",
+        "name":"medio kilo de helado",
+        "description":"500gr de helado, 2, 3 o 4 gustos. ",
+        "price":"$900",
+        "image":""
+    },
+
+    {
+        "id":"4",
+        "name":"un kilo de helado",
+        "description":"1000gr de helado, 4 o 5 gustos",
+        "price":"$1800",
+        "image":""
+    },
+    
+    {
+        "id":"4",
+        "name":"dos kilos de helado",
+        "description":"2000gr de helado, hasta 10 gustos",
+        "price":"$3000",
+        "image":""
+    }
+]
